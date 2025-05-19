@@ -1,43 +1,69 @@
-# 👨‍💻 Fihram Cahyo
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-## 👋 Halo, Saya Fihram!
+###
 
-Seorang pengembang yang bersemangat dan selalu ingin belajar hal baru di dunia pemrograman.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 
-## 🚀 Tentang Saya
+###
 
-- 👀 Saya tertarik dengan dunia pemrograman
-- 🌱 Saat ini sedang mempelajari JavaScript dan PHP
-- 💞️ Mencari kesempatan untuk berkolaborasi dan mendapatkan pengalaman baru
-- 🎓 Terus mengembangkan keterampilan dalam pengembangan web
+<h1 align="center"></h1>
 
-## 💻 Keterampilan
+###
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<h3 align="left">👩‍💻  About Me</h3>
 
-## 📊 Statistik GitHub
+###
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=FihramCahyo&show_icons=true&theme=radical)
+<p align="left">I'm Fihram Cahyo Leksono from Indonesian</p>
 
-![Bahasa Paling Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=FihramCahyo&layout=compact&theme=radical)
+###
 
-## 🌐 Kontak
+<p align="center">🔭 I’m working as PT. Mardawa Intiguna Persada<br>📚 I'm currently learning ...<br>⚡ In my free time I ...</p>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fihram_cahyo23/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FihramCahyo)
+###
 
-## 🔭 Proyek dan Kontribusi
+<h3 align="left">🛠 Language and tools</h3>
 
-Saya sedang aktif mengembangkan keterampilan dalam JavaScript dan PHP. Jika Anda memiliki proyek menarik dan ingin berkolaborasi, jangan ragu untuk menghubungi saya!
+###
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
 
-⭐️ Dari [FihramCahyo](https://github.com/FihramCahyo)
+###
 
-<!---
-FihramCahyo/FihramCahyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FihramCahyo/FihramCahyo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FihramCahyo/FihramCahyo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FihramCahyo/FihramCahyo/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/FihramCahyo/count.svg?"  />
+</div>
+
+###
